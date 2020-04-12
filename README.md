@@ -1,2 +1,4 @@
 <h1>UI animated javascript TODO list</h1>
-<h2>Made with vanilla Javascript</h2>
+<p>Made with vanilla Javascript</p>
+<p>Play <a href="https://stonino82.github.io/todo-project/">here</a>.</p>
+
